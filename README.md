@@ -15,4 +15,6 @@ MyPods:
 + pod 'Reusable'
 + pod 'NVActivityIndicatorView', '~> 4.8.0'
 
+![Simulator Screen Shot - iPhone 11 - 2023-02-17 at 11 06 09](https://user-images.githubusercontent.com/63160825/219558302-415c6d32-9bcd-442a-9cc8-4706030959b3.png)
 
+![Simulator Screen Shot - iPhone 11 - 2023-02-17 at 11 06 20](https://user-images.githubusercontent.com/63160825/219558331-cfad6750-68ab-41a5-a744-8e2434b5d861.png)
